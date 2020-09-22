@@ -31,13 +31,9 @@
 
 *Public Relations & Organizational Communication Emphasis*
 
-- I'm currently working on a React app for a restaurant.
-- I'm currently reading Eloquent Javascript.
-- I'm looking to collaborate on .Net projects.
+## **Etc**
+- Currently working on a React app for a restaurant.
+- Reading Eloquent Javascript.
+- Looking to collaborate on .Net projects.
 
-:heart: democracy
-:heart: movies
-:heart: animals
-:heart: traveling
-
-
+❤️ democracy ❤️ movies ❤️ animals ❤️ traveling
