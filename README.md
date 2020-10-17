@@ -16,7 +16,7 @@
 ***Customer Experience Manager @ Headspace***
 - Trained and opened two external offices that provided cost effective scalability for a global subscriber base. This included troubleshooting protocols to sustain a 96% customer satisfaction rating for a team of 30 agents with volume exceeding 300k interactions per month.
 - Standardized calibration, grading processes and reports that evaluated agent productivity and quality; provided personalized coaching strategies to ensure SLA’s were met.
-- Worked with vendors (FCR, MaestroQA, Salesforce, Sprout Social, Zendesk) to train outsourced teams on customer-centric communication according to Headspace’s brand identity, define necessary details for interaction with B2B clients, and manage operation costs.
+- Worked with vendors to train outsourced teams on customer-centric communication according to Headspace’s brand identity, define necessary details for interaction with B2B clients, and manage operation costs.
 - Created and maintained go-to-market strategies for large promotions collaborating with Customer Service, Finance, Marketing, PR and network administrators to meet deadlines and balance resources.
 
 ***Product Support Specialist @ Headspace***
