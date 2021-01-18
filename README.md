@@ -8,20 +8,22 @@
 
 ## **Experience**
 ***Full Stack Engineer @ Valorecare***
-- Developed RESTful API’s for a feature associated with seeker and provider functionalities.
-- Administered a multi field form with Yup and Formik that ensured data validation through proptypes.
-- Built different parts of the MVP stack with React on the front end, C#/.Net core for middle tier, and SQL Server for the back end.
-- Collaborated with a team of 15 using Git for version control and branch management. Performed ongoing testing with Postman and Chrome Dev tools to ensure reliable UX.
+- Collaborated with a team of 15 developers using Git for version control and branch management to create a MVP for a "gig-economy" web based application.
+- Developed a relational database using Microsoft SQL Server and wrote queries for relevant CRUD operations 
+- Created RESTful API's for a feature associated with different user roles in C# using .Net framework.
+- Implemented Formik and Yup libraries for form structure and input validation in React.
+- Participated in code reviews and QA testing utilizing Postman and Chrome Dev tools.
 
-***Customer Experience Manager @ Headspace***
-- Trained and opened two external offices that provided cost effective scalability for a global subscriber base. This included troubleshooting protocols to sustain a 96% customer satisfaction rating for a team of 30 agents with volume exceeding 300k interactions per month.
-- Standardized calibration, grading processes and reports that evaluated agent productivity and quality; provided personalized coaching strategies to ensure SLA’s were met.
-- Worked with vendors to train outsourced teams on customer-centric communication according to Headspace’s brand identity, define necessary details for interaction with B2B clients, and manage operation costs.
-- Created and maintained go-to-market strategies for large promotions collaborating with Customer Service, Finance, Marketing, PR and network administrators to meet deadlines and balance resources.
+***Customer Experience Project Manager: Quality Assurancee***
+- Established quality assurance processes and reporting standards for the Customer Experience team, resulting in a 96% Customer Satisfaction Rating.
+- Provided management team with monthly reports on productivity and quality, ensuring requisite standards were met.
+- Analyzed data (solved requests, first response time, request type) year-over-year to reduce overtime cost by 10% through automation and workflow enhancements.
+- Collaborated with Partnership, Sales and other internal stakeholders to increase campaign enrollment by a 5% average by proactively identifying pain points and creating efficient user flows.
+- Maintained go-to-market strategies for large promotions collaborating with Finance, Product, Dev-Ops, PR, Marketing and Creative to manage deadlines and balance resources.
+
 
 ***Product Support Specialist @ Headspace***
-- Set up developer console for 2016 launch of Headspace’s Android app: has been a successful revenue channel since.
-- Created SOPs used by Customer Service to collect user data on bugs impacting the web, iOS, and Android apps that expedited fixes by collaborating with Product and Engineering teams, utilizing Zendesk and JIRA. 
+- Created SOPs used by Customer Service to collect user data on bugs impacting the web, iOS, and Android apps that expedited fixes by collaborating with Product and Engineering teams, utilizing Zendesk, JIRA and Google Sheets. 
 - Attended daily standups in an agile/scrum environment to provide UX insights ro Churn and Growth squads during the development and updating of product features. Overall, contributed to a subscriber base growth of 1 million+.
 
 ## **Education**
@@ -32,8 +34,7 @@
 *Public Relations & Organizational Communication Emphasis*
 
 ## **Etc**
-- Currently working on a React app for a restaurant.
+- Currently working on open sourced project with C#.
 - Reading Eloquent Javascript.
-- Looking to collaborate on .Net projects.
 
 ❤️ democracy ❤️ movies ❤️ animals ❤️ traveling
