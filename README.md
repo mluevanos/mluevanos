@@ -31,7 +31,7 @@
 
 *Cum Laude*
 
-*Public Relations & Organizational Communication Emphasis*
+*Public Relations, Organizational Communication and Crisis Management Emphasis*
 
 ## **Etc**
 - Currently working on open sourced project with C#.
