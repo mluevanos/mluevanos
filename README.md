@@ -2,7 +2,7 @@
 
 ## **Developer** -- [LinkedIn](https://www.linkedin.com/in/michael-l-35485278/)
 
-###### I learned to code to expand my skillset while building on my Management experience. 
+
 ###### Adept in: UX, data-driven decision making, growth, globalization, and customer experience.
 ###### My stack: React, C#, .Net, SQL, HTML, CSS, Javascript, jQuery
 
@@ -35,6 +35,7 @@
 
 ## **Etc**
 - Currently working on open sourced project with C#.
+- Learning about data structures
 - Reading Eloquent Javascript.
 
 ❤️ democracy ❤️ movies ❤️ animals ❤️ traveling
