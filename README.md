@@ -5,6 +5,8 @@
 #### Skills: UX, Data-Analysis, Growth, Globalization, Customer Experience, Project/Product Management
 #### My Stack: React, C#, .Net, SQL, HTML, CSS, Javascript, jQuery, Python
 
+#### User Experience Project Manager with over 5 years of experience working cross-functionally with a variety of teams, managing staff, and strategic planning with agile methodologies. Transitioning into a more technical role with training in Python, Javascript, React, SQL, .Net framework, and advanced analytics skills. 
+
 ## **Experience**
 ***Full Stack Engineer @ Valorecare***
 - Collaborated with a team of 15 developers using Git for version control and branch management to create a MVP for a "gig-economy" web based application.
