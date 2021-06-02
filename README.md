@@ -1,11 +1,9 @@
 # **Michael Luevanos (He/Him/They/Them)**
 
-## [LinkedIn](https://www.linkedin.com/in/michael-l-35485278/)
-## [Portfolio](https://www.michaelluevanos.com)
-
+## [LinkedIn](https://www.linkedin.com/in/michael-l-35485278/)  [Portfolio](https://www.michaelluevanos.com)
 
 ## UX, Data-Analysis, Growth, Globalization, Customer Experience, Project/Product Management
-###### My stack: React, C#, .Net, SQL, HTML, CSS, Javascript, jQuery, Python
+##### My stack: React, C#, .Net, SQL, HTML, CSS, Javascript, jQuery, Python
 
 ## **Experience**
 ***Full Stack Engineer @ Valorecare***
