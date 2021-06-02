@@ -26,19 +26,20 @@
 - Attended daily standups in an agile/scrum environment to provide UX insights to Churn and Growth squads during the development and updating of product features. Overall, contributed to a subscriber base growth of 1 million+.
 
 ## **Education**
-2012: **BA, Communications**; California State University Los Angeles
+2021: **Data Science For All / Empowerment**; Correlation One
 
-*Cum Laude*
-
-*Public Relations, Organizational Communication and Crisis Management Emphasis*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Expected Completion: Aug 2021*
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*An immersive 14-week training program in practical data skills. [Info & Curriculum](https://s3.us-east-2.amazonaws.com/ds4a-empowerment-2.0/DS4A_Empowerment_welcome_4-16-21_vF.pdf?latest=true)*
 
 2020: **Full Stack Software Developer Training**; Sabio
 
-*Over 800 hours of instruction, projects, and hands-on work*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Over 800 hours of instruction, projects, and hands-on work*
 
-2021: **Data Science For All / Empowerment**; Correlation One
+2012: **BA, Communications**; California State University Los Angeles
 
-*Expected Completion: Aug 2021*
-*An immersive 13-week training program in practical data skills. [Info & Curriculum](https://s3.us-east-2.amazonaws.com/ds4a-empowerment-2.0/DS4A_Empowerment_welcome_4-16-21_vF.pdf?latest=true)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cum Laude*
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Public Relations, Organizational Communication and Crisis Management Emphasis*
 
 ❤️ democracy ❤️ movies ❤️ animals ❤️ traveling ❤️ art
