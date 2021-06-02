@@ -1,9 +1,9 @@
-# **Michael Luevanos (He/Him/They/Them)**
+# **[Michael Luevanos](https://www.michaelluevanos.com) (He/Him/They/Them)**
 
-## [LinkedIn](https://www.linkedin.com/in/michael-l-35485278/)  [Portfolio](https://www.michaelluevanos.com)
+## [LinkedIn](https://www.linkedin.com/in/michael-l-35485278/)
 
-## UX, Data-Analysis, Growth, Globalization, Customer Experience, Project/Product Management
-##### My stack: React, C#, .Net, SQL, HTML, CSS, Javascript, jQuery, Python
+#### Skills: UX, Data-Analysis, Growth, Globalization, Customer Experience, Project/Product Management
+#### My Stack: React, C#, .Net, SQL, HTML, CSS, Javascript, jQuery, Python
 
 ## **Experience**
 ***Full Stack Engineer @ Valorecare***
@@ -32,9 +32,13 @@
 
 *Public Relations, Organizational Communication and Crisis Management Emphasis*
 
-## **Etc**
-- Currently working on open sourced project with C#.
-- Learning about data structures
-- Reading Eloquent Javascript.
+2020: **Full Stack Software Developer Training**; Sabio
 
-❤️ democracy ❤️ movies ❤️ animals ❤️ traveling
+*Over 800 hours of instruction, projects, and hands-on work*
+
+2021: **Data Science For All / Empowerment**; Correlation One
+
+*Expected Completion: Aug 2021*
+*An immersive 13-week training program in practical data skills. [Info & Curriculum](https://s3.us-east-2.amazonaws.com/ds4a-empowerment-2.0/DS4A_Empowerment_welcome_4-16-21_vF.pdf?latest=true)*
+
+❤️ democracy ❤️ movies ❤️ animals ❤️ traveling ❤️ art
