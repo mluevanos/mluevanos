@@ -41,9 +41,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Over 800 hours of instruction, projects, and hands-on work*
 
-2012: **BA, Communications**; California State University Los Angeles
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Cum Laude*
+2012: **BA, Communications**; California State University Los Angeles *Cum Laude*
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Public Relations, Organizational Communication and Crisis Management Emphasis*
 
