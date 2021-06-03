@@ -8,6 +8,11 @@
 #### User Experience Project Manager with over 5 years of experience working cross-functionally with a variety of teams, managing staff, and strategic planning with agile methodologies. Transitioning into a more technical role with training in Python, Javascript, React, SQL, .Net framework, and advanced analytics skills. 
 
 ## **Experience**
+***Data Science For All / Empowerment @ Correlation One***
+- Awarded merit-based fellowship (4% acceptance rate) to train with Harvard Professor Natesh Pillai; 14-week program covers the full data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery) using real world data-sets to deliver actionable insights.
+- Investigated whether populations in food deserts had an increased chance of contracting Covid-19 using Jupyter Notebooks, Pandas, and MatPlotlib finding that these populations were more at risk of infection.
+- [Info & Curriculum](https://s3.us-east-2.amazonaws.com/ds4a-empowerment-2.0/DS4A_Empowerment_welcome_4-16-21_vF.pdf?latest=true)
+
 ***Full Stack Engineer @ Valorecare***
 - Collaborated with a team of 15 developers using Git for version control and branch management to create a MVP for a "gig-economy" web based application.
 - Developed a relational database using Microsoft SQL Server and wrote queries for relevant CRUD operations 
@@ -31,8 +36,6 @@
 2021: **Data Science For All / Empowerment**; Correlation One
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Expected Completion: Aug 2021*
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*An immersive 14-week training program in practical data skills. [Info & Curriculum](https://s3.us-east-2.amazonaws.com/ds4a-empowerment-2.0/DS4A_Empowerment_welcome_4-16-21_vF.pdf?latest=true)*
 
 2020: **Full Stack Software Developer Training**; Sabio
 
