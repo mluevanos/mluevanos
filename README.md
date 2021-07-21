@@ -5,12 +5,12 @@
 #### Skills: UX, Data-Analysis, Growth, Globalization, Customer Experience, Project/Product Management
 #### My Stack: React, C#, .Net, SQL, HTML, CSS, JavaScript, jQuery, Python
 
-#### User Experience Project Manager with over 5 years of experience working cross-functionally with a variety of teams, managing staff, and strategic planning with agile methodologies. Transitioning into a more technical role with training in Python, Javascript, React, SQL, .Net framework, and advanced analytics skills. 
+#### Leveraging over 5 years of project management, people management, and strategic planning experience at start-ups. I am looking to transition into roles that require Python, JavaScript, React, T-SQL, .Net Framework, C#, and or advanced analytics skills.
 
 ## **Experience**
 ***Data Science For All / Empowerment Fellow @ Correlation One***
 - Awarded merit-based fellowship (4% acceptance rate) to train with Harvard Professor Natesh Pillai; 14-week program covers the full data science pipeline (planning, acquisition, preparation, exploration, modeling, delivery) using real world data-sets to deliver actionable insights.
-- Investigated whether populations in food deserts had an increased chance of contracting Covid-19 using Jupyter Notebooks, Pandas, and MatPlotlib finding that these populations were more at risk of infection.
+- Capstone project investigating Covid rates in urban food desert populations hypothesizing an increase in Covid-19 cases using Jupyter Notebooks, Pandas, MatPlotlib, Seaborn and Tableau.
 - [Info & Curriculum](https://s3.us-east-2.amazonaws.com/ds4a-empowerment-2.0/DS4A_Empowerment_welcome_4-16-21_vF.pdf?latest=true)
 
 ***Full Stack Engineer @ Valorecare***
